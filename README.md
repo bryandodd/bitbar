@@ -1,0 +1,2 @@
+# bitbar
+Linux bitbar modules
